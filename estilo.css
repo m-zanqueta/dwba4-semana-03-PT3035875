@@ -1,0 +1,27 @@
+.raro{
+    width: 40vw;
+    height: 25vw;
+    margin-left: 5vw;
+}
+
+.aniversario{
+    display: block;
+    margin-left: 12vw;
+}
+
+.facebook{
+    width: 5vw;
+    height: 5vw;
+    margin-left: 1vw;
+}
+
+.topo{
+    width: 5vw;
+    height: 5vw;
+    display: block;
+}
+
+.inline{
+    margin-top: 5vw;
+    display: flex;
+}
